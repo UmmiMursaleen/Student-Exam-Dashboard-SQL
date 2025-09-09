@@ -17,6 +17,7 @@ The dashboard connects to the database through SQLAlchemy and leverages Pandas f
 
 This project shows how data analytics can support academics in understanding student performance more effectively and guide strategies for improvement.
 
+<img width="719" height="846" alt="Main page" src="https://github.com/user-attachments/assets/650bf285-59d3-4b7e-aa86-12d2c5901f01" />
 
-<img width="671" height="832" alt="Main page" src="https://github.com/user-attachments/assets/17e24baa-f430-47a3-a8ca-33c7e1b6bcbd" />
+
 
